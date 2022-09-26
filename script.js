@@ -27,7 +27,7 @@
 // const total=prompt("Ikki xonali son kiriting");
 // console.log(Math.trunc(total/10)*(total%10)+(` raqamlar ko'paytirmasi`));
 
-//7)-----
+//7) Savolni tushunmadim
 
 //8)
 const time=prompt('N soniya kiriting');
